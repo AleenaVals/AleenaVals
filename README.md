@@ -7,8 +7,8 @@
 
 ### 💁🏻‍♂️ About me:   
 
-- 👨🏽‍💻 I'm currently involved in developing an e-commercial platform using react ⚛️
-- 📚 I’ve a masters in Computer Science💻 with specialization in Data Analytics!🌎
+- 👨🏽‍💻 I'm currently involved in developing an e-commercial platform using React ⚛️
+- 📚 I’ve a Masters in Computer Science💻 with specialization in Data Analytics!🌎
 - 🏄 I'm interested in Web Development, Data Analysis and Data Engineering!🕸️ 
 - ❤️ I like to read and write letters! 📖
 
