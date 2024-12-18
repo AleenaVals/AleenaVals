@@ -7,10 +7,10 @@
 
 ### 💁🏻‍♂️ About me:   
 
-- 👨🏽‍💻 I'm currently involved in developing an e-commercial platform using React ⚛️
-- 📚 I’ve a Masters in Computer Science💻 with specialization in Data Analytics!🌎
-- 🏄 I'm interested in Web Development, Data Analysis and Data Engineering!🕸️ 
-- ❤️ I like to read and write letters! 📖
+- 📚 I’m a post grad in Computer Science💻 with specialization in Data Analytics!🌎
+- 👨🏽‍💻 I'm currently looking out for opportunities in data analytics domain📈
+- 🏄 I'm proficient in Python, SQL, Power BI, Excel, Machine Learning, Deep Learning and Big Data Technologies.💬
+- ❤️ I like to read books and write letters! 📖
 
 
 <!-- ### 🛠 Languages and Tools I use:
